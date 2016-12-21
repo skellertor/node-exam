@@ -1,7 +1,7 @@
 ### A Practical exam I did as part of an interview.
 
 Below are the instructions for the exam.
-Instructions to run the program are located on [INSTRUCTIONS.md]()
+Instructions to run the program are located on [INSTRUCTIONS.md](https://github.com/skellertor/node-exam/blob/master/INSTRUCTIONS.md)
 
 Node.js exam
 ====
